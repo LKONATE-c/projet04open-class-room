@@ -831,6 +831,11 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
+.keywords{
+    color: #1B2724;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
 @media (max-width: 1024px) {
     .bloc {
