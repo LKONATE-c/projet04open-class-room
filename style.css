@@ -782,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #1A1A1A!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -817,15 +817,15 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg-webp.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg-webp.webp");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere-convertit-en-webp.webp");
 }
 
 .bg-presentation {
