@@ -832,6 +832,7 @@ h4 {
     background-image: url("img/image-de-presentation-compresse.webp");
 }
 .keywords{
+   display: none;
     color: #1B2724;
     padding-top: 5px;
     padding-bottom: 5px;
